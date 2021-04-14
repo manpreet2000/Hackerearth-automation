@@ -1,0 +1,72 @@
+{
+    "https://www.hackerearth.com/challenges/hiring/kreditbee-software-engineer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "KreditBee Software Engineer Hiring Challenge",
+        "start": "APR 16, 06:00 PM IST",
+        "end": "APR 25, 11:55 PM IST",
+        "duration": "2H 30M"
+    },
+    "https://www.hackerearth.com/challenges/hiring/styldod-fullstack-hiring-2021/": {
+        "type": "Hiring",
+        "name": "Styldod Fullstack Developer Hiring Challenge",
+        "start": "APR 16, 06:00 PM IST",
+        "end": "APR 25, 11:55 PM IST",
+        "duration": "6H"
+    },
+    "https://www.hackerearth.com/challenges/hiring/augnito-senior-dot-net-developer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "Augnito Senior .Net Developer Hiring Challenge",
+        "start": "APR 23, 06:00 PM IST",
+        "end": "MAY 02, 11:55 PM IST",
+        "duration": "3H"
+    },
+    "https://www.hackerearth.com/challenges/hiring/augnito-junior-dot-net-developer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "Augnito Junior .Net Developer Hiring Challenge",
+        "start": "APR 23, 06:00 PM IST",
+        "end": "MAY 02, 11:55 PM IST",
+        "duration": "2H 30M"
+    },
+    "https://www.hackerearth.com/challenges/hiring/essenvia-backend-developer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "Essenvia Backend Developer Hiring Challenge",
+        "start": "APR 23, 06:00 PM IST",
+        "end": "MAY 02, 11:55 PM IST",
+        "duration": "5H"
+    },
+    "https://www.hackerearth.com/challenges/hiring/essenvia-angular-developer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "Essenvia Frontend Angular Developer Hiring Challenge",
+        "start": "APR 23, 06:00 PM IST",
+        "end": "MAY 02, 11:55 PM IST",
+        "duration": "5H"
+    },
+    "https://www.hackerearth.com/challenges/hiring/natwest-technology-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "NatWest Technology India Hiring Challenge 2021",
+        "start": "APR 24, 09:00 AM IST",
+        "end": "APR 25, 11:55 PM IST",
+        "duration": "2H 30M"
+    },
+    "https://www.hackerearth.com/challenges/hiring/falabella-java-developer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "Falabella Java Developer Hiring Challenge",
+        "start": "APR 30, 06:00 PM IST",
+        "end": "MAY 09, 11:55 PM IST",
+        "duration": "2H 30M"
+    },
+    "https://www.hackerearth.com/challenges/hiring/falabella-full-stack-developer-hiring-challenge/": {
+        "type": "Hiring",
+        "name": "Falabella Full Stack Developer Hiring Challenge",
+        "start": "APR 30, 06:00 PM IST",
+        "end": "MAY 09, 11:55 PM IST",
+        "duration": "6H"
+    },
+    "https://www.hackerearth.com/challenges/hiring/concentrix-java-developer-hiring-challenge-may21/": {
+        "type": "Hiring",
+        "name": "Java Developer Hiring Challenge - May21",
+        "start": "MAY 07, 06:00 PM IST",
+        "end": "MAY 16, 11:55 PM IST",
+        "duration": "3H"
+    }
+}

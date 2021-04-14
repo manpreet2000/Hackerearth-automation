@@ -1,0 +1,14 @@
+gmail:kiwahey422@art2427.com
+password:12345678
+city:Delhi
+phonecode:91
+number:9711091772
+university:Guru Tegh Bahadur Institute of Technology
+type:Bachelor's degree
+branch:ECE
+graduation:2021
+CGPA:7.8
+relocate:Yes
+exp:0
+resume:resume.pdf
+gender:M
